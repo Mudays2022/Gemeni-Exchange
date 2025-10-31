@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Crypto Exchange",
+  "description": "A sophisticated, centralized crypto exchange dashboard similar to Binance, built with React and Tailwind CSS. It features a real-time (mock) trading interface including a price chart, order book, trade history, and an AI-powered market analysis tool using the Gemini API.",
+  "requestFramePermissions": []
+}
